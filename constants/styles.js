@@ -8,10 +8,10 @@ export const GlobalStyles = {
     primary700: "#6d752f",
     primary800: "#5c6328",
     accent500: "#175E54",
-    error50: "#c06e64",
-    error500: "#99483e",
+    error50: "#ffc1b9",
+    error500: "#ff7d6c",
     gray500: "#565656",
     gray700: "#3d3d3d",
-    white: '#ffffff'
+    white: "#ffffff",
   },
 };
