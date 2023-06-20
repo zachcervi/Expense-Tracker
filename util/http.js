@@ -6,7 +6,6 @@ export async function storeExpense(expenseData) {
     `${FIREBASE_ROOT}/expenses.json`,
     expenseData
   );
-  console.log("response.data 🔵", response.data);
   const id = response.data.name;
   return id;
 }
